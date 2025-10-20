@@ -1,0 +1,10 @@
+os
+re
+langchain
+langchain-community
+langchain-openai
+langchain-chains
+langchain-memory
+openai
+flask
+render_template, request, redirect
